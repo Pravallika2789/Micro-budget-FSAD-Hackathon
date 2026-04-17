@@ -12,10 +12,18 @@ https://microbuget-one.vercel.app/
 ## 📌 Features
 
 * 🔐 Family Login System (Father, Mother, You)
+<img width="1410" height="914" alt="image" src="https://github.com/user-attachments/assets/0d0a0fc7-e6de-4e6e-9cb8-22225f350602" />
+
 * 💸 Expense Management (Add, Edit, Delete)
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/bb811464-261a-4b45-9997-1eddc84a5881" />
+
 * 📊 Dashboard with Income, Expenses, Savings
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/32ce0a4b-15c4-4748-99f5-61ae530a68a1" />
+
 * 🔮 Predictive Analytics for future spending
 * 🎯 Savings Goals Tracking
+<img width="1918" height="914" alt="image" src="https://github.com/user-attachments/assets/af96905c-b331-4253-814d-1bad51b792c5" />
+
 * 🔍 Search & Category Filters
 * ⚠️ Budget Overuse Alerts
 * 🏆 Gamification Badges
@@ -75,6 +83,10 @@ npm run dev
 ## 👩‍💻 Author
 
 **Varshitha Mandha**
+**Vennela Naga Sai.M**
+**Varshitha Mandha**
+**Keerthana.C**
+**R.Pravallika**
 
 ---
 
