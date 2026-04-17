@@ -2,6 +2,12 @@
 
 A smart micro-budgeting dashboard that helps users track expenses, manage savings, and make better financial decisions.
 
+## 👩‍💻 Team-07
+* M.Varshitha- 2420030479 
+* C.Keerthana- 2420030581 
+* R.Pravallika- 2420090073
+* M.Vennela- 2420030218 
+
 --
 ## 🚀 Live Demo
 
@@ -78,13 +84,6 @@ npm run dev
 * Multi-device sync
 * Advanced analytics
 
----
-
-## 👩‍💻 Author
-* Varshitha Mandha
-* Keerthana.C
-* R.Pravallika
-* Vennela Naga Sai.M
 ---
 
 ## ⭐ Acknowledgement
