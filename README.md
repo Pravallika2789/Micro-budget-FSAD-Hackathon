@@ -82,11 +82,11 @@ npm run dev
 
 ## 👩‍💻 Author
 
-**Varshitha Mandha
-**Vennela Naga Sai.M
-**Varshitha Mandha
-**Keerthana.C
-**R.Pravallika
+*Varshitha Mandha
+*Vennela Naga Sai.M
+*Varshitha Mandha
+*Keerthana.C
+*R.Pravallika
 
 ---
 
