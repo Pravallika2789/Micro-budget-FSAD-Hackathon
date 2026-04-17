@@ -2,7 +2,7 @@
 
 A smart micro-budgeting dashboard that helps users track expenses, manage savings, and make better financial decisions.
 
-## 👩‍💻 Team-07
+## 👩‍💻 Team-7
 * M.Varshitha- 2420030479 
 * C.Keerthana- 2420030581 
 * R.Pravallika- 2420090073
