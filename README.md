@@ -49,16 +49,6 @@ https://microbuget-one.vercel.app/
 
 ---
 
-## 📂 Project Structure
-
-src/
-├── App.jsx
-├── main.jsx
-├── App.css
-├── index.css
-
----
-
 ## ⚙️ Installation
 
 ```bash
